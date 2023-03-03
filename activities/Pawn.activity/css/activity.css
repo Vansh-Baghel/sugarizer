@@ -3,5 +3,16 @@
 }
 
 body {
-	height: 100vh;
+  height: 100vh;
+}
+
+#main-toolbar #add-button {
+  background-image: url(../icons/add.svg);
+}
+
+.pawn {
+  background-image: url(../icons/pawn-icon.svg);
+  display: inline-block;
+  width: 65px;
+  height: 65px;
 }
